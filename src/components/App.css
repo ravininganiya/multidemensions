@@ -1,0 +1,89 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+.section_page_p{
+  font-size: 15px;
+  font-weight: 500;
+}
+.product_information {
+  /* width: 195px;
+  height: 25px; */
+  /* padding: 6.5px 182.5px 6.5px 6.5px; */
+  border-radius: 4px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #0987e1;
+  color: white;
+  margin: 6px;
+  padding-left: 15px;
+}
+.Product-variant-information{
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  text-align: left;
+  color: #1a1a1a;
+  margin:6px;
+  
+}
+.card_main{
+  /* width: 175px;
+  height: 281px; */
+  
+  line-height: 1.94;
+  color: #2f281e;
+  /* margin: 78px 6px 0 14px; */
+  letter-spacing: normal;
+}
+.card_varient{
+  border-radius: 4px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #d1d1d1;
+  /* width: 195px;
+  height: 25px; */
+  margin: 6px ;
+  padding-left: 15px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.section_main_card{
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.16);
+}
+.section_page_p{
+  font-size: 12px;
+  margin: 7px 0 0;
+  color: #151d41;
+}
+
+.enquire_now{
+  border:none;
+  background-color: #1a1a1a;
+  color:white;
+  border-radius: 25px;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0 0 20px;
+  padding: 14px 19px 14px 20px;
+}
+
+.btn_enquire_now {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 8px;
+  color: #2f281e;
+  margin-top: 10px;
+}
+.product_detail_table{
+  border: solid 1px #e2e2e2;
+}
+.product_detail_table_header{
+  color: #0f5ed0;
+  line-height: 2.86;
+  font-size: 14px;
+  font-weight: 600;
+}
+.product_detail_table_body{
+  background-color: #f2f8fc;
+}
